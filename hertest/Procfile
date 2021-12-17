@@ -1,0 +1,1 @@
+web: gunicorn hertest.wsgi --log-file -
